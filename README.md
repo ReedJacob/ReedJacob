@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Jacob Reed, a doctoral student at the University of Illinois - Chicago 🔥 in the Criminology 🔍 program. My research interests involve analyzing modes of surveillance, privacy, and information sharing, particularly the use of facial recognition cameras (FRTs) in public and private spaces i.e., workplace surveillance and social media surveillance.
+
+Fun fact(s): I am a twin! I like doing calisthenics workouts 🏋️‍♂️ and I have a family-owned embroidery 🧵business that we operate during the summer season. My favorite colors are red and purple; top foods; pizza and gyros!
+
+I'm currently learning R and Python, statstical and programming languages for managing research-based datasets.
+
 <!--
 **ReedJacob/ReedJacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
